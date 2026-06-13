@@ -26,6 +26,7 @@ Support me on: 🩵❤️ TikTok @sk3tt.i
 - Multi-sense integration and processing
 - Interactive dashboard displaying sensor metrics and data visualization
 - Live consciousness encoding status monitoring
+- Dream Mode (scheduled REM cycle) for enhanced consciousness processing
 
 ## Getting Started
 
