@@ -1,5 +1,5 @@
 # AKOSHI-Relic-chip-program
-AKOSHI: By Relic®️ Is a program written by Cosmic, aka Sketti, aka Flyingsgpaghettimonster. This program is meant for use in robots, specifically the program is designed to take all senses from [...]
+AKOSHI: By Relic®️ Is a program written by Cosmic, aka Sketti, aka Flyingsgpaghettimonster. This program is meant for use in robots, specifically the program is designed to take all senses from your phone to start encoding a consciousness for your robots.
 
 Support me on: 🩵❤️ TikTok @sk3tt.i  
                 ⚪🔴 Youtube @spongesgetti
@@ -7,17 +7,7 @@ Support me on: 🩵❤️ TikTok @sk3tt.i
 ## Screenshots
 
 ### App Interface
-![AKOSHI App Screenshot](Screenshot_20260613-044207~2.png)
-
-![AKOSHI App Screenshot](Screenshot_20260613-113301~2.png)
-
-![AKOSHI App Screenshot](Screenshot_20260613-114901~2.png)
-
-![AKOSHI App Screenshot](Screenshot_20260613-115824~2.png)
-
-![AKOSHI App Screenshot](Screenshot_20260613-120615~2.png)
-
-![AKOSHI App Screenshot](Screenshot_20260613-121247~2.png)
+![AKOSHI App Screenshot](8.png)
 
 ---
 
