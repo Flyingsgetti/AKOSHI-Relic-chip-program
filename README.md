@@ -11,6 +11,8 @@ Support me on: 🩵❤️ TikTok @sk3tt.i
 
 ![AKOSHI App Screenshot](7.png)
 
+![AKOSHI Screenshot](1.png)
+
 ---
 
 ## Features
