@@ -13,6 +13,18 @@ Support me on: 🩵❤️ TikTok @sk3tt.i
 
 ![AKOSHI Screenshot](1.png)
 
+![AKOSHI Screenshot](2.png)
+
+![AKOSHI Screenshot](3.png)
+
+![AKOSHI Screenshot](4.png)
+
+![AKOSHI Screenshot](5.png)
+
+![AKOSHI Screenshot](6.png)
+
+![AKOSHI Screenshot](9.png)
+
 ---
 
 ## Features
